@@ -1,0 +1,26 @@
+body{
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+main{
+	display: flex;
+	justify-content: center;
+}
+.main__conteiner{
+	width: 800px;
+	height: 800px;
+	background-color: rgb(186, 224, 255);
+}
+.main__conteiner>span{
+	font-size: 25px;
+}
+.main__conteiner img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main__conteiner h1{
+	text-align: center;
+}
+.main__conteiner>p{
+	color: rgb(185, 39, 178);
+}
